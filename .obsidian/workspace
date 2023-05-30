@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "ed03cc752ceffcf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "95a6676a89cc3f7f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Docker/Fundamentals/Docker Container Fundamentals.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d50b0535a8e652f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "604512ab76db6911",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84f6fa89333884eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d09ad8135afbfcc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "545645f01f0b05fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "16b792921273482f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55dae8ff2228bc2d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Docker/Fundamentals/Docker Container Fundamentals.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "95a6676a89cc3f7f",
+  "lastOpenFiles": [
+    "Docker/Fundamentals/Docker Container Fundamentals.md",
+    "Docker/Fundamentals/Pasted image 20221030191841.png",
+    "Docker/Fundamentals/Pasted image 20221030192359.png",
+    "Docker/Fundamentals/Pasted image 20221030191442.png",
+    "Docker/Fundamentals/Pasted image 20221030192635.png",
+    "Melee Stream Tool Edits.md"
+  ]
+}
